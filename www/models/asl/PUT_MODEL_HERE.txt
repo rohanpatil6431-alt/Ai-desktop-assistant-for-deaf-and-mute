@@ -1,0 +1,12 @@
+Put your TensorFlow.js export files in this folder.
+
+Required files:
+- model.json
+- one or more weights files (often named group1-shard1of*.bin)
+
+After adding them, run your app and click:
+Hand Sign -> Start
+
+The detector will auto-load this URL:
+models/asl/model.json
+
